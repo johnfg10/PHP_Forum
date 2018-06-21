@@ -1,0 +1,1 @@
+window.onload = function (ev) {history.go(-1)};
